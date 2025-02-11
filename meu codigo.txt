@@ -4,4 +4,6 @@ Eu sou uma nova linha
 - git add "nomedoarquivo"/ git add . - salva qualquer nova alteração feita
 - git commit -m "comentario sobre nova adição de codigo" - faz o commit 
 - git push - manda para o github
-
+- git branch - mostra quais branch exitem
+- git branch nomedanovabranch - cria uma nova branch
+- git checkout nomedanovabranch - troca de branch
