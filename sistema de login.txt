@@ -1,2 +1,3 @@
 - git merge nomedabranchquequerpuxar - junta duas branch
 - git checkout -b nomedanovabrange nomedabrangedebase - cria uam nova branche com base em uma branch já existente
+- merge com o master
