@@ -8,4 +8,4 @@ Eu sou uma nova linha
 - git branch nomedanovabranch - cria uma nova branch
 - git checkout nomedanovabranch - troca de branch
 - git pull - puxa todos as atualizações do servidor
-- git merge nomedabranchquequerpuxar - junta duas branch
+
